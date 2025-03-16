@@ -25,7 +25,7 @@ Dataset yang digunakan adalah **Mall Customer Segmentation Data** dari [Kaggle](
    - Visualisasi hasil clustering menggunakan scatter plot.
    - Interpretasi setiap cluster berdasarkan karakteristik pelanggan.
    - 
-![Clustering Result](images/clustering_result.png)
+![Clustering Result](image/result.png)
 
 ## Hasil Clustering
 Berdasarkan analisis, pelanggan dapat dikelompokkan menjadi **5 cluster**:
