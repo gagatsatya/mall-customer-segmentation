@@ -28,7 +28,7 @@ Dataset yang digunakan adalah **Mall Customer Segmentation Data** dari [Kaggle](
 ![Clustering Result](mall-customer-segmentation/image/result.png)
 
 ## Hasil Clustering
-Berdasarkan analisis, pelanggan dapat dikelompokkan menjadi **5 cluster**:
+Berdasarkan analisis, pelanggan dapat dikelompokkan menjadi **6 cluster**:
 1. **Cluster 0**: Pelanggan dengan pendapatan menengah dan skor pengeluaran menengah.
 2. **Cluster 1**: Pelanggan dengan pendapatan tinggi dan skor pengeluaran tinggi.
 3. **Cluster 2**: Pelanggan dengan pendapatan rendah dan skor pengeluaran tinggi.
